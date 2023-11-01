@@ -108,7 +108,7 @@ function TaskForm() {
             Save
           </button>
         </div>
-        {error ? <p className="error">The name of the task is required</p> : null}
+        {error ? <p className="error">Task Name Is Required</p> : null}
       </div>
     </Modal>
   );

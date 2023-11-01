@@ -13,6 +13,7 @@ function App() {
         <Calendar />
         <TaskForm/>
       </CalendarState>
+      <a href="https://github.com/manueldinisjunior.com/agenda-cast" target="_blank"><i className="fa">&#xf09b;</i> Source Code </a>
     </div>
   );
 }
